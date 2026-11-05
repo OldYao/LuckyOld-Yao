@@ -17,7 +17,7 @@
 
 ## 在 ChatGPT 桌面应用中使用
 
-如果你的桌面应用支持宠物安装链接，可以点击 **[安装小姚到桌面应用](codex://pets/install?name=%E5%B0%8F%E5%A7%9A&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FOldYao%2FLuckyOld-Yao%2Frefs%2Fheads%2Fmain%2Fassets%2Fxiaoyao.png&spriteVersionNumber=2)**，按应用提示完成安装，再在 **设置 → Pets** 中选择小姚。如果浏览器没有打开应用，可复制下面的链接到支持此协议的环境：
+如果你的桌面应用支持宠物安装链接，可以复制下面的地址到支持 `codex://` 协议的浏览器或应用中打开，按提示完成安装，再在 **设置 → Pets** 中选择小姚：
 
 ```text
 codex://pets/install?name=%E5%B0%8F%E5%A7%9A&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FOldYao%2FLuckyOld-Yao%2Frefs%2Fheads%2Fmain%2Fassets%2Fxiaoyao.png&spriteVersionNumber=2
